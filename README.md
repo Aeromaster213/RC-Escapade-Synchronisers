@@ -1,3 +1,4 @@
+
 # RC-Escapade-Synchronisers
 
 We designed and built an RC car for the event:- **RC-Escapade**, organized by **TechManiacs**, the Robotics Club of our institute, as part of the techno-cultural festival **Tirutsava 2023** of **IIT Tirupati**.
@@ -10,7 +11,7 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 <li>Prakhar Moses ME21B054- <a href="https://github.com/prakharmosesOK" target="_blank">prakharmosesOK</a></li>
 <li>Ajitesh Ghogarekar EE21B003- @</li>
 <li>Subhodeep Hemrom CH21B035- <a href="https://github.com/heavyat" target="_blank">heavyat</a></li>
-<li>Prince Kumar CH21B028-</li>
+<li>Prince Kumar CH21B028- <a href="https://github.com/prince-0204" target="_blank">prince-0204</a></li>
 </ul>
 <hr>
 <h2>Car Parts:-</h2>
@@ -32,8 +33,12 @@ For more information, refer the document:-
 <li>Weight:- ~4kg</li>
 <li>Binding Materials:- Straps, MCeil, Soldering Iron, MiG Welding</li>
 <li>Dimensions:- 20cm X 26cm X 8.3cm</li>
+<li>Materials type:- Aluminum, Thermoplastic, 3D filaments, MDF board</li>
 </ul>
 <hr>
 <h2>The Process:-</h2>
 The primary engineering limitation encountered during the car manufacturing process was the lack of access to specialized components typically used in professional RC race cars. Additionally, the project was subject to a restricted time frame of 15 days for both the design and construction phases, as well as a constrained budget of Rs.15000. Therefore, it was necessary to source and utilize domestically produced components while also salvaging certain pieces for the construction of the car.
 
+Mechanism document can be found here:-
+
+We faced quite a few challenges in our way:- We had to replace the back wheels with metal, make a protective cover our servo to protect it and also 
