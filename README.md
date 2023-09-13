@@ -26,7 +26,6 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 <li>2 x Metal Wheel</li>
 <li>Various 3D printed parts</li>
 </ul>
-For more information, refer the document:- <a href="" target="_blank">Parts list</a>
 <hr>
 <h2>Measurements and miscellaneous items:-</h2>
 <ul>
