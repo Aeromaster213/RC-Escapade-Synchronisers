@@ -31,7 +31,7 @@ For more information, refer the document:-
 <ul>
 <li>Weight:- ~4kg</li>
 <li>Binding Materials:- Straps, MCeil, Soldering Iron, MiG Welding</li>
-<li>Dimensions:-</li>
+<li>Dimensions:- 20cm X 26cm X 8.3cm</li>
 </ul>
 <hr>
 <h2>The Process:-</h2>
