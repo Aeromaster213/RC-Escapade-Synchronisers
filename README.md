@@ -5,11 +5,13 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 ![image1]()
 <hr>
 <h2>Team Members:- (Name, roll number, Github ID)</h2>
-- Arup Biswas CS21B004- @Aeromaster213
-* Prakhar Moses ME21B054- @prakharmosesOK
-* Ajitesh Ghogarekar EE21B003- @
-* Subhodeep Hemrom CH21B035-
-* Prince Kumar CH21B028-
+<ul>
+<li> Arup Biswas CS21B004- @Aeromaster213</li>
+<li>Prakhar Moses ME21B054- @prakharmosesOK</li>
+<li>Ajitesh Ghogarekar EE21B003- @</li>
+<li>Subhodeep Hemrom CH21B035-</li>
+<li>Prince Kumar CH21B028-</li>
+</ul>
 <hr>
 <h2>Car Parts:-</h2>
 
