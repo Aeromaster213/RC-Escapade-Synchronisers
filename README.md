@@ -9,7 +9,7 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 <li> Arup Biswas CS21B004- @Aeromaster213</li>
 <li>Prakhar Moses ME21B054- @prakharmosesOK</li>
 <li>Ajitesh Ghogarekar EE21B003- @</li>
-<li>Subhodeep Hemrom CH21B035-</li>
+<li>Subhodeep Hemrom CH21B035- @heavyat</li>
 <li>Prince Kumar CH21B028-</li>
 </ul>
 <hr>
