@@ -26,7 +26,7 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 <li>2 x Metal Wheel</li>
 <li>Various 3D printed parts</li>
 </ul>
-For more information, refer the document:- 
+For more information, refer the document:- <a href="" target="_blank">Parts list</a>
 <hr>
 <h2>Measurements and miscellaneous items:-</h2>
 <ul>
@@ -39,6 +39,6 @@ For more information, refer the document:-
 <h2>The Process:-</h2>
 The primary engineering limitation encountered during the car manufacturing process was the lack of access to specialized components typically used in professional RC race cars. Additionally, the project was subject to a restricted time frame of 15 days for both the design and construction phases, as well as a constrained budget of Rs.15000. Therefore, it was necessary to source and utilize domestically produced components while also salvaging certain pieces for the construction of the car.
 
-Mechanism document can be found here:-
+Mechanism document can be found here:- <a href="https://docs.google.com/document/d/1VdlbqVj6pDNYACEhOgFMP-s0EiOjVn7_tPYPSwU8ST8/edit?usp=sharing" target="_blank">Mechanisms doc</a>
 
 We faced quite a few challenges in our way:- We had to replace the back wheels with metal, make a protective cover our servo to protect it and also 
