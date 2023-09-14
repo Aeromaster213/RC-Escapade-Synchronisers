@@ -37,11 +37,14 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 <hr>
 <h2>The Process:-</h2>
 The primary engineering limitation encountered during the car manufacturing process was the lack of access to specialized components typically used in professional RC race cars. Additionally, the project was subject to a restricted time frame of 15 days for both the design and construction phases, as well as a constrained budget of Rs.15000. Therefore, it was necessary to source and utilize domestically produced components while also salvaging certain pieces for the construction of the car.
-We welded a steel frame as our chasis using MIG welding. Using proper physics we calculated the required specifications of each part. We 
+We welded a steel frame as our chasis using MIG welding. Using proper physics we calculated the required specifications of each part. We welded the motor to the chasis. THe rear wheels were directly connected to the motor for increased rpm since the brushed motor were already providing enough torque. We fixed ESC, battery and reciever on a aluminium sheet using straps and then screwed it to the chasis. For the front wheel stearing mechanism we used 3D printed parts and aluminium wires attached to the servo and the spindle of the wheel. The suspensions were attached to the spindle. And then we screwed the front wheel mechanism to the chasis. Some loose parts that were causing the vibration were handled using Mcil. Heat ejection was also consider in the RC car by the battery as well as by the motor.
+We tested the car on various tracks to check its torque, vibrations, rpm and durability. Due to this we also chenged the rear wheels which required strength and size for better performance.
+Finally we covered the sensitive parts with a thin layer of polythene.
 
 Mechanism document can be found here:- <a href="https://docs.google.com/document/d/1VdlbqVj6pDNYACEhOgFMP-s0EiOjVn7_tPYPSwU8ST8/edit?usp=sharing" target="_blank">Mechanisms doc</a>
 
 We faced quite a few challenges in our way:- We had to replace bent tyres the back wheels with metal wheels, make a protective shield to cover our servo, reduce vibrations due to chasis, motor rotation, bumps by welding motor, made the car slope downward for drag and had to 3D print custom suspension mechanism, which also reduced the vibrations even more.
-printed the parts for suspension mechanism. We welded the motor to the chasis. THe rear wheels were directly connected to the motor for increased rpm since the brushed motor were already providing enough torque. We fixed ESC, battery and reciever on a aluminium sheet using straps and then screwed it to the chasis. For the front wheel stearing mechanism we used 3D printed parts and aluminium wires attached to the servo and the spindle of the wheel. The suspensions were attached to the spindle. And then we screwed the front wheel mechanism to the chasis. Some loose parts that were causing the vibration were handled using Mcil. Heat ejection was also consider in the RC car by the battery as well as by the motor.
-We tested the car on various tracks to check its torque, vibrations, rpm and durability. Due to this we also chenged the rear wheels which required strength and size for better performance.
-Finally we covered the sensitive parts with a thin layer of polythene.
+printed the parts for suspension mechanism.
+<hr>
+<h2>Race Track</h2>
+
