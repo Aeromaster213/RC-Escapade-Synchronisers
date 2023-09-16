@@ -42,13 +42,14 @@ We welded a steel frame as our chasis using MIG welding. Using proper physics we
 We tested the car on various tracks to check its torque, vibrations, rpm and durability. Due to this we also chenged the rear wheels which required strength and size for better performance.
 Finally we covered the sensitive parts with a thin layer of polythene.
 
+
 Mechanism document can be found here:- <a href="https://docs.google.com/document/d/1VdlbqVj6pDNYACEhOgFMP-s0EiOjVn7_tPYPSwU8ST8/edit?usp=sharing" target="_blank">Mechanisms doc</a>
 
 We faced quite a few challenges in our way:- We had to replace bent tyres the back wheels with metal wheels, make a protective shield to cover our servo, reduce vibrations due to chasis, motor rotation, bumps by welding motor, made the car slope downward for drag and had to 3D print custom suspension mechanism, which also reduced the vibrations even more.
 printed the parts for suspension mechanism.
 <hr>
 <h2>Race Track</h2>
-![image2]([https://github.com/Aeromaster213/RC-Escapade-Synchronisers/blob/main/Media/racetrack.jpg])
+![racetrack](https://github.com/Aeromaster213/RC-Escapade-Synchronisers/assets/105273182/d00acc89-e5bf-460f-ad10-7cde95dfba68)
 This was the basic outline of the race track.
 <hr>
 <h2>Results:</h2>
