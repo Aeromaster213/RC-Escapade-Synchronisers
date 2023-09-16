@@ -15,8 +15,7 @@ We designed and built an RC car for the event:- **RC-Escapade**, organized by **
 </ul>
 <hr>
 <h2>Car Parts:-</h2>
-https://github.com/Aeromaster213/RC-Escapade-Synchronisers/blob/main/Media/partsdisplay.jpeg
-<ul>
+<img src="https://github.com/Aeromaster213/RC-Escapade-Synchronisers/blob/main/Media/partsdisplay.jpeg?raw=true"><ul>
 <li>2 x RS-775 DC 12V-24V Motor</li>
 <li>1 x 1060 60A Brushed Electronic Speed Controller</li>
 <li>1 x 2.4GHz 6 Channel Transmitter with FS-RGB Receiver</li>
