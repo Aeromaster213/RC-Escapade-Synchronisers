@@ -49,8 +49,8 @@ We faced quite a few challenges in our way:- We had to replace bent tyres the ba
 printed the parts for suspension mechanism.
 <hr>
 <h2>Race Track</h2>
-![racetrack](https://github.com/Aeromaster213/RC-Escapade-Synchronisers/assets/105273182/00b11aa0-6533-4305-8757-39388910d925)
 
+<img src="https://github.com/Aeromaster213/RC-Escapade-Synchronisers/blob/main/Media/racetrack.jpg?raw=true">
 
 This was the basic outline of the race track.
 <hr>
