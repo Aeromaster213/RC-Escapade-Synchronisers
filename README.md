@@ -55,5 +55,5 @@ printed the parts for suspension mechanism.
 This was the basic outline of the race track.
 <hr>
 <h2>Results:</h2>
-![video1](https://github.com/Aeromaster213/RC-Escapade-Synchronisers/blob/main/Media/night_test.mp4)
+https://github.com/Aeromaster213/RC-Escapade-Synchronisers/blob/main/Media/night_test.mp4
 We finished third in the overall race.
